@@ -3,7 +3,7 @@ public static void main(String[] args) {
 
         String text = "Gamarjoba megobaro" ;
 
-        int length = 0 ;
+        int length = text.length();
 
         length++;
         if (length % 2 == 0) {
