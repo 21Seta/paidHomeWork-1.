@@ -5,7 +5,6 @@ public static void main(String[] args) {
 
         int length = text.length();
 
-        length++;
         if (length % 2 == 0) {
             System.out.println("ლუწი");
         } else {
