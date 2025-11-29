@@ -4,14 +4,14 @@ public class paidHomeWork5
     {
 
 
-        String text = "hello friend";
+        String text = "გამარჯობა მეგობარო";
         int i = 0;
         int count = 0;
 
         while (i < text.length()) {
             char ch = text.charAt(i);
 
-            if (Character.isLetter(ch) && !(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u')){
+            if (Character.isLetter(ch) && !(ch == 'ა' || ch == 'ე' || ch == 'ი' || ch == 'ო' || ch == 'უ')){
 
                 count++;
             }
