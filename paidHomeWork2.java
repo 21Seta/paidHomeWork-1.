@@ -1,7 +1,7 @@
 public static void main(String[] args) {
     {
 
-        String text = "Gamarjoba megobaro" ;
+        String text = "helloWorld" ;
 
         int length = text.length();
 
